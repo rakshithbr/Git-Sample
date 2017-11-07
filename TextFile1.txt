@@ -1,4 +1,4 @@
 Hello World!
 This is the second line
 sample 1 changinf line
-sample 2 was here
+Both sample one and two were here
